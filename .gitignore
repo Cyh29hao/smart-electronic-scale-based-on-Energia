@@ -1,0 +1,17 @@
+.env
+.env.*
+
+# Energia / Arduino local build output
+*.elf
+*.hex
+*.map
+*.o
+*.d
+build/
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
